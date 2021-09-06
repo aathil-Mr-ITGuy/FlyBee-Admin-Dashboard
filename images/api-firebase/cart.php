@@ -27,7 +27,7 @@ if (!$time_zone) {
 
 /* 
 -------------------------------------------
-APIs for eCart
+APIs for FlyBee developed by HythamLabs
 -------------------------------------------
 1. add_to_cart
 2. add_multiple_items

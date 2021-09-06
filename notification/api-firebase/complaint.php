@@ -21,7 +21,7 @@ if (!$time_zone) {
 
 /* 
 -------------------------------------------
-APIs for eCart
+APIs for FlyBee developed by HythamLabs
 -------------------------------------------
 1. get_complaint_type_id 
 2. add_complaint

@@ -1,5 +1,5 @@
 <section class="content-header">
-    <h1>eCart Purchase Code <a href='purchase-code.php'></h1> 
+    <h1>FlyBee Purchase Code <a href='purchase-code.php'></h1> 
     <ol class="breadcrumb">
         <li><a href="home.php"><i class="fa fa-home"></i> Home</a></li>
     </ol>
@@ -17,7 +17,7 @@
                 <div class="box-body">
                     <form id="validate_code_form" method="GET">
                         <div class="form-group">
-                            <label for="exampleInputEmail1">Enter the Purchase Code shared by the customer for eCart</label>
+                            <label for="exampleInputEmail1">Enter the Purchase Code shared by the customer for FlyBee</label>
                             <input type="text" class="form-control" id="purchase_code" name="purchase_code" placeholder="Enter the purchase code here" required>
                         </div>
                         <!-- /.box-body -->
